@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightTests.build/RimpyLightTests.d",
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightTests.build/RimpyLightTests.o",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightTests.build/primary.swiftdeps"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Tests/RimpyLightTests/LoadOrderTests.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightTests.build/LoadOrderTests.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightTests.build/LoadOrderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightTests.build/LoadOrderTests.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightTests.build/LoadOrderTests.dia"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightPackageTests.build/RimpyLightPackageTests.d",
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightPackageTests.build/RimpyLightPackageTests.o",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightPackageTests.build/primary.swiftdeps"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightPackageTests.derived/runner.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLightPackageTests.build/runner.dia"
+  }
+}

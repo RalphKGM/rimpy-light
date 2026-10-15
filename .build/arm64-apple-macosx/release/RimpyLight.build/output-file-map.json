@@ -1,0 +1,97 @@
+{
+  "": {
+    "dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RimpyLight.d",
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RimpyLight.o",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/primary.swiftdeps"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/AppState.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/AppState.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/AppState.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/AppState.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/CheckCommand.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/CheckCommand.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/CheckCommand~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/CheckCommand.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/CheckCommand.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/AboutParser.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/AboutParser.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/AboutParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/AboutParser.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/AboutParser.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/GamePaths.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/GamePaths.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/GamePaths~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/GamePaths.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/GamePaths.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/LoadOrder.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/LoadOrder.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/LoadOrder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/LoadOrder.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/LoadOrder.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Mod.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/Mod.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/Mod~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/Mod.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/Mod.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModListIO.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModListIO.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModListIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModListIO.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModListIO.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModScanner.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModScanner.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModScanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModScanner.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModScanner.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/RuleSet.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RuleSet.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RuleSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RuleSet.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RuleSet.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Validator.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/Validator.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/Validator~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/Validator.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/Validator.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/RimpyLightApp.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RimpyLightApp.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RimpyLightApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RimpyLightApp.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/RimpyLightApp.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ContentView.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ContentView.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ContentView.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModDetailView.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModDetailView.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModDetailView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModDetailView.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModDetailView.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModListPane.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModListPane.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModListPane~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModListPane.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/ModListPane.dia"
+  },
+  "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/SettingsView.swift": {
+    "object": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/release/RimpyLight.build/SettingsView.dia"
+  }
+}

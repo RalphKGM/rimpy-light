@@ -1,0 +1,916 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.xctest/Contents/MacOS/RimpyLightPackageTests",
+      "packagePath" : "/Users/ralph/Desktop/projects/rimpylight",
+      "productName" : "RimpyLightPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.RimpyLight-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/sources",
+      "importPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/AppState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/CheckCommand.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/AboutParser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/GamePaths.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/LoadOrder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Mod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModListIO.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/RuleSet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Validator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/RimpyLightApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModListPane.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "RimpyLight",
+      "moduleOutputPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules/RimpyLight.swiftmodule",
+      "objects" : [
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/AppState.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/CheckCommand.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/AboutParser.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/GamePaths.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/LoadOrder.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/Mod.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModListIO.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModScanner.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/RuleSet.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/Validator.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/RimpyLightApp.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ContentView.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModDetailView.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModListPane.swift.o",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/SettingsView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "RimpyLight_main",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "rimpylight"
+      ],
+      "outputFileMapPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/AppState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/CheckCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/AboutParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/GamePaths.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/LoadOrder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/Mod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModListIO.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/RuleSet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/Validator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/RimpyLightApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModListPane.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules/RimpyLight.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/AppState.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/CheckCommand.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/AboutParser.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/GamePaths.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/LoadOrder.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Mod.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModListIO.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModScanner.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/RuleSet.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Validator.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/RimpyLightApp.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ContentView.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModDetailView.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModListPane.swift",
+        "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/SettingsView.swift"
+      ],
+      "tempsPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.RimpyLightPackageTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/sources",
+      "importPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules/RimpyLightTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "RimpyLightPackageTests",
+      "moduleOutputPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules/RimpyLightPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/include/RimpyLightPackageTests-Swift.h",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "rimpylight"
+      ],
+      "outputFileMapPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules/RimpyLightPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.RimpyLightTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build/sources",
+      "importPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Tests/RimpyLightTests/LoadOrderTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "RimpyLightTests",
+      "moduleOutputPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules/RimpyLightTests.swiftmodule",
+      "objects" : [
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build/LoadOrderTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "rimpylight"
+      ],
+      "outputFileMapPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build/LoadOrderTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules/RimpyLightTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/ralph/Desktop/projects/rimpylight/Tests/RimpyLightTests/LoadOrderTests.swift"
+      ],
+      "tempsPath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "RimpyLight" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "RimpyLight",
+      "-package-name",
+      "rimpylight",
+      "-c",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/AppState.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/CheckCommand.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/AboutParser.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/GamePaths.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/LoadOrder.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Mod.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModListIO.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModScanner.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/RuleSet.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Validator.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/RimpyLightApp.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ContentView.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModDetailView.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModListPane.swift",
+      "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/SettingsView.swift",
+      "-I",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "RimpyLight_main",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "rimpylight",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "RimpyLightPackageTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "RimpyLightPackageTests",
+      "-package-name",
+      "rimpylight",
+      "-c",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/include/RimpyLightPackageTests-Swift.h",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "rimpylight",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "RimpyLightTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "RimpyLightTests",
+      "-package-name",
+      "rimpylight",
+      "-c",
+      "/Users/ralph/Desktop/projects/rimpylight/Tests/RimpyLightTests/LoadOrderTests.swift",
+      "-I",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "rimpylight",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "RimpyLight" : [
+
+    ],
+    "RimpyLightPackageTests" : [
+      "RimpyLightTests",
+      "RimpyLight"
+    ],
+    "RimpyLightTests" : [
+      "RimpyLight"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight-entitlement.plist"
+    },
+    "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/AppState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/CheckCommand.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/AboutParser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/GamePaths.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/LoadOrder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Mod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModListIO.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/RuleSet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Validator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/RimpyLightApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModListPane.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/SettingsView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/sources"
+    },
+    "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/AboutParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/AppState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/CheckCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/GamePaths.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/LoadOrder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/Mod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModListIO.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModListPane.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/RimpyLightApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/RuleSet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/Validator.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.product/Objects.LinkFileList"
+    },
+    "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/sources"
+    },
+    "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/AboutParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/AppState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/CheckCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/GamePaths.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/LoadOrder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/Mod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModListIO.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModListPane.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/ModScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/RimpyLightApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/RuleSet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLight.build/Validator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build/LoadOrderTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/ralph/Desktop/projects/rimpylight/Tests/RimpyLightTests/LoadOrderTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/RimpyLightTests.build/sources"
+    },
+    "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/ralph/Desktop/projects/rimpylight/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

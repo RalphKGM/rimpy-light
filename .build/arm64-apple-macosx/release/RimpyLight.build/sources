@@ -1,0 +1,15 @@
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/AppState.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/CheckCommand.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/AboutParser.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/GamePaths.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/LoadOrder.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Mod.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModListIO.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/ModScanner.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/RuleSet.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Model/Validator.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/RimpyLightApp.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ContentView.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModDetailView.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/ModListPane.swift
+/Users/ralph/Desktop/projects/rimpylight/Sources/RimpyLight/Views/SettingsView.swift
